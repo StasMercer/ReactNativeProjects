@@ -1,0 +1,3 @@
+[submodule "translage"]
+	path = translage
+	url = https://github.com/StasMercer/translage.git
